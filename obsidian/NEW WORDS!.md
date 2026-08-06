@@ -73,21 +73,93 @@
 		I have an intention to work hard, get a great job with a high salary and be successful
 		A lot of people think that they dont need to have future intentions. But this causes many troubles in the future
 13. ==**coincidence**== - совпадение
+		In our world there are a lot of coincidences which lead us to addictions
+		There is one story. One year ago i asked my girlfriend to go for a walk, she rejected it because she was preparing for an exam but after that i saw her on the street, in that moment i thought it was a coincidence
 14. **smooth** - гладкий, ровный
+		There are a lot of people on the Earth who like smooth surfaces
+		I was polishing one surface for an hour and it became smooth
 15. ==**concern**== - беспокойство
+		I think there is a large concern in society because everyone knows that World War 3 is achievable right now
+		On the one hand there is a big concern but on the other hand the population can do nothing about it
 16. **remorse** - угрызение совести,раскаяние
+		If someone lies to his relatives he will have remorse
 17. ==**tend**== - склонен(==tend to be== - склонен быть)
-18. **embaressed** - смущённый
-19. ***likewise*** - так же, аналогично(поступить так же)(БОЛЕЕ ОФИЦИАЛЬНЫЙ СИНОНИМ ALSO)
+		I tend to have a PC games addiction if i start playing it will last alteast 4 hours
+18. **embarressed** - смущённый
+		When i heard what my friend did i was embarressed
+19. ==***likewise***== - так же, аналогично(поступить так же)(БОЛЕЕ ОФИЦИАЛЬНЫЙ СИНОНИМ ALSO)
+		When i went for a picnic with friends a took some bread and sausages likewise i took my backpack
 20. **hard to overcome** - сложно перебороть
+		I believe its hard to overcome a smoking addiction
 21. **reduction** -  уменьшение, сокращение
+		After a long therapy we saw a cancer reduction 
 22. **approach** - подход, приближение (approach social stimuli - приближаться к )
+		I think a lot of taachers have their own approaches to children
 23. **salient** - важный, серьёзный
-24. **evaluate** - оценивать
+		When i graduated from school and enrolled in BSUIR it became a salient step in my adult life
+24. ==**evaluate**== - оценивать
+		After every interview you must ask your interviewer to evaluate your skills
+		Last summer i was evaluating my programming skills as bad 
 25. **nontheless** - тем не менее
+		I have certain dumb friends nontheless i like them
 26. **possession** - владение, обладание
-27. **deliniate** - описывать, точно объяснить
-28. **perception** - восприятие(внутреннее, у меня есть своя *точка зрения*, у них хорошее *восприятие*)
-29. **oblivious** - не замечает что-то, не обращая внимания
+27. ==**delineate**== - описывать, точно объяснить
+		When you start up a traineeship in an IT company there will be a mentor who would deliniate information to you
+		When i was studying at school several teachers said that i had great skill to delineate subjects
+28. ==**perception**== - восприятие(внутреннее, у меня есть своя *точка зрения*, у них хорошее *восприятие*)
+		In some situtiations i have my own perceptions
+29. ==**oblivious**== - не замечает что-то, не обращая внимания
+		There were a lot of talks about him but he was oblivious
 30. **contracts into** - сжимается
+		When he sees bullies from school he contracts  a into small figure
 31. **fright** - страх
+		I have fright not become successful in my
+
+****
+03.08.2026
+**intend** - намереваться / *ATTEND - ПОСЕЩАТЬ*
+	Did i intend to go somewhere? I have an issue with forgetting a lot of things
+
+**disruptive** - разрушительный
+	This tornado in the USA was really disruptive yesterday
+**==distinguish==** - отличать, различать
+	You really need to distinguish between "We have a problem" and "You have a problem"
+**recap** -  краткое резюме
+	I think i did great today. Can you send me a little recap and evaluate my skills? 
+==**implement**== - применить план в действии
+	I ll  implement a function tommorow.
+	If you have a dream u should not wait. You must implement it as fast as you can
+****
+05.08.2026
+enormous - коллосальный, огромный
+	When i saw my groupmate for the first time i thought only about one thing "Why is his height so enormous"
+==crucial== - ключевой
+	In my opinion the crucial element in success is hard work
+==obviously== - очевидно
+	He is obviously not the coolest person but i like him
+**infiltrate** - проникнуть
+	One day i infiltrated into my friend's house and hid there
+**smuggler** - контрабандист
+	The numerous of smugglers were caught in the sea
+==**expose**== - обнаружить, разоблачить
+	When he started lying a little bit more everyone exposed him
+**abbot** - глава секты или чего-то религиозного но близкого к секте
+==**observe**== - наблюдать
+	He was observing the perimeter when she turned to him for advice
+**credit** - кредит, НО ТАК ЖЕ ЗАСЛУГА(will you not take any of the credit)
+	After everything happend he asked if  his credit was good or not enough for saying thank you
+**jury** - жюри или присяжные
+	the jury was really embaressed by this performance
+**convene** - созвать, сбраться, провести заседание
+	Our application has a lot of troubles so i must convene all of you
+==**i must press you**== - я должен настоять...
+	i dont like your frieneds so i must press you to stay home this is really a severe situation
+**wink** - подмигнуть
+	When he was passing next to me he winked AT me
+==**elaborate**== - сложный, вдаваться в подробности, объяснять(вдаваться в подробности - elaborate ==ON==)
+	It's late evening right now i dont want to elaborate ON things
+**recall** - напомнить
+	Can tou recall  something about yourself tomorrow?(recall всегда с чем-то(неплоный глагол))
+==**recurring**== - повторяющийся
+	im really sorry about this recurring situation. I'm doing my best to fix it
+
