@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/SPEAKING MISTAKES(WRONG - RIGHT).md",
-                "mode": "source",
+                "file": "obsidian/NEW WORDS!.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPEAKING MISTAKES(WRONG - RIGHT)"
+              "title": "NEW WORDS!"
             }
           }
         ]
@@ -191,9 +191,11 @@
   },
   "active": "cb5c181bdd36faae",
   "lastOpenFiles": [
+    "Без названия 1",
+    "Без названия",
+    "obsidian/SPEAKING MISTAKES(WRONG - RIGHT).md",
     "obsidian/NEW WORDS!.md",
     "obsidian/INTERVIEW CONSTRUCTIONS.md",
-    "obsidian/SPEAKING MISTAKES(WRONG - RIGHT).md",
     "Без названия.md"
   ]
 }

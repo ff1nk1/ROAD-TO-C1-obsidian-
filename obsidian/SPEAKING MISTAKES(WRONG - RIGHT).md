@@ -28,6 +28,7 @@
 
 	❌ I like to become smarter. - ✅ I enjoy learning new things.(enjoy всегда следующий глагол с ing enjoy improving, etc)
 
+	✅proud of doing smth
 
 ****
 
@@ -50,8 +51,10 @@ help to don't miss - ✅ help prevent missing or ✅ help us not miss
 
 
 
+****
 
 
+	❌ ended up impement  - ✅ ended up implementing (end up + ing)
 
 
 
