@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INNO TRAINEE.md",
+                "file": "INNO KNOWLEDGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INNO TRAINEE"
+              "title": "INNO KNOWLEDGE"
             }
           }
         ],
@@ -194,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -205,10 +206,10 @@
   },
   "active": "0ac02ac304473734",
   "lastOpenFiles": [
-    "INNO KNOWLEDGE.md",
-    "INNO TRAINEE.md",
-    "Без названия.md",
     "Без названия.canvas",
+    "INNO TRAINEE.md",
+    "INNO KNOWLEDGE.md",
+    "Без названия.md",
     "ENGLISH/SPEAKING MISTAKES(WRONG - RIGHT).md",
     "ALGORITHMS/Изученные темы и ключевое по ним/МОНОТОННЫЙ СТЕК.md",
     "ALGORITHMS/Изученные темы и ключевое по ним/HASH MAP AND SET.md",
